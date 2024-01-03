@@ -1,0 +1,2 @@
+sudo mount -t drvfs '\\vscifs1\physicsqadata' /home/markba/PhysicsQA
+sudo mount -t drvfs C:/Users/Markb/Modular_Projects /home/markba/Modular_Projects
